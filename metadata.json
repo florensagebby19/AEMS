@@ -1,0 +1,6 @@
+{
+  "name": "AEMS PSI",
+  "description": "Advance & Expense Management System for PT Prasad Seeds Indonesia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
